@@ -1,0 +1,21 @@
+- axios interceptors and other method suggested at end of interview
+- useCallback and why don't we use it for all functions for performance improvement
+- HOC & real life use case of custom HOC
+- custom hooks
+- React reconciliation & it's internal workings & time complexity
+- why or why not use create-react-app
+- build tools for react
+- AJAX requests with axios and fetch
+- Pure Components
+- Code splitting
+- Lazy loading
+- Check for un-necessary re-renders
+- Differences between Functional and Class components - with their pros and cons.
+- What are lifecycle methods.
+- Benefits of ES6, ES7 and onwards - give examples.
+- Differences/similarities between useState and UseRef
+- What approaches do you use for reusable component design?
+- How do you handle authentication and authorization in React apps?
+- How do you handle API data fetching in React - custom hooks, React Query, SWR?
+- How do you optimize images and assets for performance in React apps?
+- What React design patterns and best practices are important for large apps?
